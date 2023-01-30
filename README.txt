@@ -1,33 +1,23 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+###Shireen's Portfolio (or as I like to call it, my bragging wall)
+Hello there, internet stranger! I'm Shireen, a software developer with a knack for coding and a love for PostgreSQL. This portfolio is where I showcase my coding wizardry and humblebrag about my awesome projects.
 
+About Me
+I'm like a superhero, but instead of saving the world, I save failed code. And instead of a cape, I wear a hoodie. My superpower? Debugging, of course!
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+Projects
+Here are some of my greatest achievements (so far):
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Project 1: [Project Title] - I basically wrote code that could moonwalk on command. It was pretty neat.
+Project 2: [Project Title] - I tamed the wild beast that was Ruby on Rails. It was a real nail-biter.
+Skills
+Ruby on Rails (master)
+PostgreSQL (sensei)
+Design patterns (ninja)
+Code debugging (Sherlock Holmes)
+Contact Me
+If you're feeling adventurous and want to hire me for your next project, or if you just want to chat about coding, send me a message!
 
-(* = Not included)
+Email: shireenbanu89@gmail.com
+LinkedIn: https://www.linkedin.com/in/shireen-bano-558b58170
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Thank you for visiting my portfolio! (I promise I won't gloat too much)
