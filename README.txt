@@ -1,14 +1,9 @@
-###Shireen's Portfolio (or as I like to call it, my bragging wall)
+### Shireen's Portfolio (or as I like to call it, my bragging wall)
 Hello there, internet stranger! I'm Shireen, a software developer with a knack for coding and a love for PostgreSQL. This portfolio is where I showcase my coding wizardry and humblebrag about my awesome projects.
 
 About Me
 I'm like a superhero, but instead of saving the world, I save failed code. And instead of a cape, I wear a hoodie. My superpower? Debugging, of course!
 
-Projects
-Here are some of my greatest achievements (so far):
-
-Project 1: [Project Title] - I basically wrote code that could moonwalk on command. It was pretty neat.
-Project 2: [Project Title] - I tamed the wild beast that was Ruby on Rails. It was a real nail-biter.
 Skills
 Ruby on Rails (master)
 PostgreSQL (sensei)
